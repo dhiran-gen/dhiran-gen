@@ -4,7 +4,6 @@
 📍 Based in Hyderabad 
 📞 +91 6203901339  
 ✉️ dhirantech@gmail.com  
-🌐 [GitHub](https://github.com/dhiran-gen)
 
 ### 🚀 About Me
 As an experienced software developer, I'm on a mission to build scalable and fault-tolerant systems that leave a lasting impact. I thrive on tackling complex challenges, and I'm always hungry to explore the latest in tech.
@@ -54,14 +53,20 @@ As an experienced software developer, I'm on a mission to build scalable and fau
 - 🧙‍♂️ IntelliJ IDEA
 - 🐧 Linux
 
-### 🎯 Hobbies
-- 💻 Coding
-- 🌲 Outdoor games
-- 📹 Vlogging
+### 🏆 GitHub Achievements
 
-### 🌐 Languages
-- 🇺🇸 English
-- 🇮🇳 Hindi
+[![Repos](https://badgen.net/badge/Repositories/21?color=blue)](https://github.com/dhiran-gen?tab=repositories) 📦
+[![Commits](https://badgen.net/badge/Commits/1024?color=green)](https://github.com/dhiran-gen) 🔨
+
+Celestial Coder 🌌
+
+Star Gazer 🌟
+
+Fork Pioneer 🍴
+
+Code Contributor 📜
+
+Pull Request Prodigy 🏁
 
 ### 🏆 Extracurricular & Achievements
 - 🥇 State rank 3 (prelims) and 21 (mains) respectively in Akanksha 40 Jharkhand Fellowship Exam 2016
