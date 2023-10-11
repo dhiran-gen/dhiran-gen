@@ -1,7 +1,7 @@
 # 👨‍💻 Dhiran Kumar Yadav
 ## 💻 Software Developer 🚀
 
-📍 Based in Hyderabad (Open to Relocation)  
+📍 Based in Hyderabad 
 📞 +91 6203901339  
 ✉️ dhirantech@gmail.com  
 🌐 [GitHub](https://github.com/dhiran-gen)
