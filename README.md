@@ -9,7 +9,7 @@
 <br>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhiran-gen&theme=radical&border=7F3FBF&background=0D1117" alt="dhiran-gen" width="55%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhiran-gen&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="dhiran-gen" width="40%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhiran-gen&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&v=1" alt="dhiran-gen" width="40%"/>
 </p>
 <p align="center">
   <a href="https://github.com/dhiran-gen">
